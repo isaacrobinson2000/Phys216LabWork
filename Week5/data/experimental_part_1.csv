@@ -1,3 +1,5 @@
-Angle (deg),Mass (g)
-0,200
-120,100
+Mass(g),Angle(deg),Mass Error(g),Angle Error(deg)
+200,0,3,1
+100,120,3,1
+147,180,3,1
+86,270,3,1
