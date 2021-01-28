@@ -1,0 +1,2 @@
+T_start (C),T_finish (C),R_start (kOhm),R_finish (kOhm),err_T (C),m (g),err_m (g),M (kg),err_M (kg),D (mm),D_err (mm),#Turns,err_#Turns,Sub_Turns
+12.63,29,180.6,82.5,0.3,202.9,0.1,6.355,0.001,48,0.5,348,10,18
